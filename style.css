@@ -43,6 +43,7 @@ h1 {
 
 @media (max-width: 768px){
     body {
+        background: linear-gradient(45deg, Violet, Orange);
         background-image: url("./new_year.jpg");
         min-height: 100vh;
         background-size: cover;

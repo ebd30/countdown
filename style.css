@@ -54,11 +54,13 @@ h1 {
         margin: 0;
     }
     h1 {
+        color: black;
         font-weight: regular;
         font-size: 2rem;
         margin-top: 5rem;
     }
     .big-text {
+        color: black;
         font-size: 3rem;
         line-height: 1;
         margin: 0 1rem;

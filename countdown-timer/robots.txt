@@ -1,4 +1,0 @@
-User-agent: *
-Allow:/
-
-Sitemap: https://hanchanhee300.kro.kr/sitemap.xml
